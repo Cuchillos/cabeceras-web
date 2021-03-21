@@ -7,15 +7,15 @@ Como usarlo:
 Termux:
 ```
 git clone https://github.com/Cuchillos/cabeceras-web
-cd cabeceras-web3.py
+cd cabeceras-web
 pip install -r requirements.txt
-python cabeceras-web.py
+python cabeceras-web3.py
 ```
 
 PC:
 ```
 pip install -r requirements.txt
-python cabeceras-web.py
+python cabeceras-web3.py
 ```
 
 
