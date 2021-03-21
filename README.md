@@ -14,7 +14,7 @@ python cabeceras-web.py
 
 PC:
 ```git clone https://github.com/Cuchillos/cabeceras-web
-cd cabeceras-web3.py
+cd cabeceras-web
 pip install -r requirements.txt
 python cabeceras-web.py
 ```
