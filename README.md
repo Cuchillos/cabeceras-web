@@ -9,13 +9,13 @@ Termux:
 git clone https://github.com/Cuchillos/cabeceras-web
 cd cabeceras-web
 pip install -r requirements.txt
-python cabeceras-web3.py
+python cabeceras-web3.py -h
 ```
 
 PC:
 ```
 pip install -r requirements.txt
-python cabeceras-web3.py
+python cabeceras-web3.py -h
 ```
 
 
