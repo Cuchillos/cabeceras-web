@@ -6,14 +6,14 @@ Como usarlo:
 -------------
 Termux:
 ```
-git clone https://github.com/Cuchillos/cabeceras-web
-cd cabeceras-web-t.py
+git clone https://github.com/Cuchillos/cabeceras-web.git
+cd cabeceras-web3.py
 pip install -r requirements.txt
 python cabeceras-web.py
 ```
 
 PC:
-```git clone https://github.com/Cuchillos/cabeceras-web
+```
 cd cabeceras-web
 pip install -r requirements.txt
 python cabeceras-web.py
