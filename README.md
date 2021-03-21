@@ -14,7 +14,6 @@ python cabeceras-web.py
 
 PC:
 ```
-cd cabeceras-web
 pip install -r requirements.txt
 python cabeceras-web.py
 ```
