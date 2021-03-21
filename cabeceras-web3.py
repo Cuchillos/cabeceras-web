@@ -6,7 +6,10 @@ import argparse
 import os
 
 def banner():
-    os.system ("cls")
+    try:
+        os.system("cls")
+    except:
+        os.system("clear")
 
     print(chr(27)+"[1;31m"+"░█████╗░██╗░░░██╗░█████╗░██╗░░██╗██╗██╗░░░░░██╗░░░░░░█████╗░")
     print(chr(27)+"[1;31m"+"██╔══██╗██║░░░██║██╔══██╗██║░░██║██║██║░░░░░██║░░░░░██╔══██╗")
