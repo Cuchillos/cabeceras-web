@@ -6,7 +6,7 @@ Como usarlo:
 -------------
 Termux:
 ```
-git clone https://github.com/Cuchillos/cabeceras-web.git
+git clone https://github.com/Cuchillos/cabeceras-web
 cd cabeceras-web3.py
 pip install -r requirements.txt
 python cabeceras-web.py
